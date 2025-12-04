@@ -1,0 +1,13 @@
+# EXE Analyzer Requirements
+
+# PE File Parsing
+pefile>=2023.2.7
+
+# Disassembly Engine
+capstone>=5.0.1
+
+# .NET Analysis
+dnfile>=0.14.1
+
+# Optional: Python.NET for advanced .NET analysis
+# pythonnet>=3.0.3
